@@ -1,4 +1,4 @@
 
 
 proc print data=sashelp.class;
-RUN;
+run;
